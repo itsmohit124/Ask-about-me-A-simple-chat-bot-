@@ -29,10 +29,11 @@ pip install -r requirements.txt
 ```
 
 # Configuration
-Provide your own OpenApi key
+Provide your own OpenApi key inside .env file
 ```
 OPENAI_API_KEY=<<YOUR_API_KEY>>
 ```
+
 
 # Running
 
