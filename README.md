@@ -29,13 +29,10 @@ pip install -r requirements.txt
 ```
 
 # Configuration
-
-Copy `env.sample` to `.env` and add your OpenAI API key to the file.
-
+Provide your own OpenApi key
 ```
 OPENAI_API_KEY=<<YOUR_API_KEY>>
 ```
-
 
 # Running
 
